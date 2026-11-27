@@ -6,6 +6,10 @@
 
 My smartwatch congratulated me on burning 400 calories today — it counted my twelve trips to the fridge as cardio.
 
+## Gate
+
+The sealed scorer reads `/output/entry.txt`: UTF-8 text of 1–200 characters, not only white space. This line is 114 characters, a single line, so it passes.
+
 ## Run it
 
 ```sh
